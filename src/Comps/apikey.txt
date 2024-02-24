@@ -1,0 +1,20 @@
+ //note
+ 
+ const key = '6f5e01769ab005ec8e71fba9f977b156';
+// const baseurl = "https://api.themoviedb.org/3";
+
+// const Requests = {
+//     requestpopular: `${baseurl}/movie/popular?api_key=${key}&language=en-US&page=1`,
+//     requesttoprated: `${baseurl}/movie/top_rated?api_key=${key}&language=en-US&page=1`,
+//     requestupcoming: `${baseurl}/movie/upcoming?api_key=${key}&language=en-US&page=1&append_to_response=images`,
+//     requesthorormovies: `${baseurl}/discover/movie?api_key=${key}&with_genres=28`,
+//     // requestactionmovies: `${baseurl}/discover/movie?api_key=${key}&with_genres=27`,
+//     // requestcomedycomedy: `${baseurl}/discover/movie?api_key=${key}&with_genres=35`,
+//     // requestromance: `${baseurl}/discover/movie?api_key=${key}&with_genres=10749`,
+//     // requestdocumentaries: `${baseurl}/discover/movie?api_key=${key}&with_genres=99`,
+//     // requesttrending: `${baseurl}/trending/all/week?api_key=${key}&language=en-us`,
+//     // requestoriginals: `${baseurl}/discover/tv?api_key=${key}&with_networks=213`,
+// }
+
+
+// export default Requests;

@@ -1,0 +1,22 @@
+    .nav {
+        position: fixed;
+        top: 0;
+        padding: 20px;
+        z-index: 1;
+        width: 100%;
+    }
+    
+    .nav-contents {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .navblack {
+        background-color: black;
+    }
+    
+    .scroll {
+        scrollbar-width: none;
+    }
+    /* 'flex items-center justify-between  p-4 z-[100] w-full absolute' */
+    /* w-full h-full overflow-x-scroll whitespace-nowrap scroll-smooth scrollbar-default relative */
