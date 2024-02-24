@@ -9,7 +9,7 @@ import { getAnalytics } from "firebase/analytics";
 const firebaseConfig = {
   apiKey: "AIzaSyC8xMzlTN9DBxrq0vwjLyOyRq47NfbApuc",
   authDomain: "netflix-clone-136fc.firebaseapp.com",
-  projectId: "netflix-clone-136fc",
+  proje ctId: "netflix-clone-136fc",
   storageBucket: "netflix-clone-136fc.appspot.com",
   messagingSenderId: "157127540137",
   appId: "1:157127540137:web:9790d129a84d61a5b058b8",
